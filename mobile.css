@@ -1,0 +1,139 @@
+
+/* header section start */
+nav{
+    flex-direction: column;
+}
+
+.nav-bar{
+    flex-direction: column;
+    text-align: center;
+}
+
+.nav-search-div-1 input{
+    margin-top: 10px;
+}
+
+.nav-search-img{
+    margin-top: 10px;
+}
+/* header section End */
+
+
+/* home section start  */
+.delivery-div{
+    margin: auto;
+}
+
+.home-main-div{
+    flex-direction: column;
+}
+
+.home-main-div-text-item h1{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5px;
+}
+/* home section End  */
+
+
+/* contact-section start */
+.contact-section-container{
+    flex-direction: column;
+}
+
+.contact-section-item{
+    margin-bottom: 30px;
+}
+
+#contact-section-item{
+    border-right: 0;
+    padding-right: 0;
+}
+/* contact-section End */
+
+/* product-section start */
+.product-item-container{
+    grid-template-columns: repeat(1,auto);
+    width: 0;
+}
+
+.product-item{
+    margin-left: -40px;
+}
+/* product-section End */
+
+
+/* service section start */
+.service-item-container{
+    flex-direction: column;
+}
+
+.service-item{
+    margin-bottom: 20px;
+    width: 250px;
+    margin-left: 45px;
+}
+/* service section End */
+
+
+/* testimonials-section start */
+.testimonials-container{
+    flex-direction: column;
+}
+
+.testimonial-item-1{
+    margin-bottom: 20px;
+}
+
+.testimonial-item-sub-1{
+    flex-direction: column;
+    margin-left: 5%;
+}
+
+.testimonial-item-2 img{
+    height: 200px;
+}
+/* testimonials-section End */
+
+
+/* email-contact-section start */
+.email-section-container{
+    flex-direction: column;
+    width: 300px;
+    text-align: center;
+    padding: 15px 0;
+    margin-left: -20px;
+}
+
+.email-section-item-1 img{
+    height: 250px;
+}
+
+.email-section-item-1 h1{
+    font-size: 25px;
+}
+
+.email-section-item-1 p{
+    text-align: center;
+}
+
+.email-form input{
+    width: 220px;
+}
+
+.email-form-item button{
+    left: 165px;
+}
+/* email-contact-section End */
+
+
+/* foooter section start */
+.footer-container{
+    flex-direction: column;
+    text-align: center;
+}
+
+.footer-icon{
+    margin-bottom: 10px;
+}
+/* foooter section End */
